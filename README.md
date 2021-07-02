@@ -44,6 +44,6 @@ background-color: #A387D6
 	<LI><A href="mailto:julia.mferraris03@gmail.com">email</A>
 </UL>
 
-<P>para visitar o site do grupo <A href="">clique aqui</A>
+<P>para visitar o site do grupo <A href="https://github.com/ycalianny/grupo/blob/main/README.md#grupo">clique aqui</A>
 </body>
 </html>
